@@ -1,0 +1,4 @@
+Natural Language Processing is a field of Artificial Intelligence.
+It enables computers to understand and process human language.
+NLP is used for text classification, sentiment analysis, machine translation, and text summarization.
+Machine learning and deep learning techniques are commonly used in NLP applications.

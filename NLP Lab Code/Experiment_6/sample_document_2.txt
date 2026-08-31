@@ -1,0 +1,4 @@
+Natural Language Processing is an important area of Artificial Intelligence.
+It allows computers to process and understand human language.
+NLP applications include sentiment analysis, text classification, machine translation, and summarization.
+Deep learning and machine learning methods are widely used to build NLP systems.
